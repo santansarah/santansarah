@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1uGxA1MDpuiqauvRUXvZPdc-5Mx9GjO6PegIBCFmC7B8/edit?usp=sharing](https://docs.google.com/document/d/1uGxA1MDpuiqauvRUXvZPdc-5Mx9GjO6PegIBCFmC7B8/edit?usp=sharing).
 
-- ⚡ Fun fact **I'm keto - my brain runs on fat instead of carbs🤪. I also love watching TV and listening to music.**.
+- ⚡ Fun fact **I'm keto - my brain runs on fat instead of carbs🤪. I also love watching TV and listening to music**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
