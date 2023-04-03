@@ -22,9 +22,7 @@
 
 - ⚡ Fun fact **I'm keto - my brain runs on fat instead of carbs🤪. I also love working with IoT devices**.
 
-![Temp Sensor](working-normal.jpg)
-
-![Temp Sensor](no-power-flash.jpg)
+![Temp Sensor](temp-sensor.jpg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
